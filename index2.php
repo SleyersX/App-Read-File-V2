@@ -1,6 +1,5 @@
 <?php
 
-    /*
     $rota = $_GET['url'] ?? 'auth';
 
     //var_dump($rota);
@@ -107,4 +106,4 @@
         header('Content-Type: application/json; charset=utf-8');
         echo json_encode($response);
     }
-     */
+
